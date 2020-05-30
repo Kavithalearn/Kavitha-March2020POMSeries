@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Hub spot App Test automation sanity suite">
+  <test thread-count="5" name="hub spot functional test">
+    <classes>
+     <class name="TestNGSessions.LoginPageTest"/>
+      <class name="TestNGSessions.HomePageTest"/>
+         
+    </classes>
+  </test> 
+</suite>
