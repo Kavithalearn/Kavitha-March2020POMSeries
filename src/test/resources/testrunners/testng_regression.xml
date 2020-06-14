@@ -5,13 +5,13 @@
 
 	<listeners>
 	
-	<listener class-name="com.qa.hubspot.Listeners.ExtentReportListener" />
+	<!--<listener class-name="com.qa.hubspot.Listeners.ExtentReportListener" />-->
 	
-	<listener class-name="com.qa.hubspot.Listeners.ScreenshotListener" /> 
+	<!--<listener class-name="com.qa.hubspot.Listeners.ScreenshotListener" /> -->
 	
 	<!--   <listener class-name="com.qa.hubspot.Listeners.TesultsListener" /> -->
 	
-	<!--	 <listener class-name="com.qa.hubspot.Listeners.TestAllureListener" /> -->
+		 <listener class-name="com.qa.hubspot.Listeners.TestAllureListener" /> 
 		<!--	<listener class-name="com.qa.hubspot.Listeners.TesultsListener" /> 	-->
 		<!--	<listener class-name="com.qa.hubspot.Listeners.pdfListener" /> -->
 	 	
