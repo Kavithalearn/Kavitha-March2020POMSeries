@@ -5,7 +5,7 @@
 
 	<listeners>
 	
-	<!--<listener class-name="com.qa.hubspot.Listeners.ExtentReportListener" />-->
+	<listener class-name="com.qa.hubspot.Listeners.ExtentReportListener" />
 	
 	<!--<listener class-name="com.qa.hubspot.Listeners.ScreenshotListener" /> -->
 	
